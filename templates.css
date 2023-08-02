@@ -54,30 +54,16 @@ p {
 
 }
 
- 
-
 .opt__header .opt__logo {
-
     width: 40%;
-
-  
-   float:right
-
-
+    margin-left: -3em;
     text-align: right;
-
 }
 
- 
-
 .opt__header .opt__logo img {
-
     max-width: 300px;
-
     width: 200px;
-
     height: auto;
-
 }
 
  
